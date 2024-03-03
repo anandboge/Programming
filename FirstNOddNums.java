@@ -7,5 +7,6 @@ public class FirstNOddNums {
         int a = in.nextInt();
         for(int i=1;i<=a;i+=2){
             System.out.print(i +" ");
+        }
     }
 }
