@@ -33,7 +33,7 @@ import java.util.Scanner;
 public class BatteryLow {
 
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+                Scanner input = new Scanner(System.in);
 		int t = input.nextInt();
 		for (int i = 1;i<=t ;i++ ){ 
 		    int x = input.nextInt();
